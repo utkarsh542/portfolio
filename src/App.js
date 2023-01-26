@@ -10,7 +10,9 @@ function App() {
   return (
     <div>
       <NavBar />
+      <div className="mt-80">
       <Home />
+      </div>
       <About />
       <Projects />
       <Skills />
